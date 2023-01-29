@@ -61,6 +61,7 @@ Avinash Jha
 - [Bartłomiej Góra] (https://github.com/bartgora)
 - [AlexRussss]
 Subhajit Bera
+Shashank Dwivedi
   [Smarpan Sharma](https://github.com/smarpan)
 - [Panzariu Ionut-Adrian](https://github.com/PanzariuAdi)
 - [Jovan Lanutan](https://github.com/tan911)
